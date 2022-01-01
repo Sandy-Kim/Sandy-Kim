@@ -4,8 +4,8 @@
 - ✨ I am a web developer. I make a website using React.
 - 🌱 I’m currently learning Svelte.
 - 💥 The project I worked on.
+  - [AllRoundPlayer](https://apps.apple.com/app/id1592867058)
   - [TimerS](https://apps.apple.com/app/id1497713889)
-  - AllRoundPlayer(working on)
 - 📫 How to reach me
   - Email: water15951@gmail.com
 
