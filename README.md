@@ -3,8 +3,9 @@
 - 🔭 I’m currently working at [wantedlab](https://www.wanted.co.kr/).
 - ✨ I am a web developer. I make a website using React.
 - 🌱 I’m currently learning Svelte.
-- 💥 The project I worked on.
-  - [AllRoundPlayer](https://apps.apple.com/app/id1592867058)
+- 🔎 I'm looking for a new project to do
+- 💥 The project I worked.
+  - ~~AllRoundPlayer~~
   - [TimerS](https://apps.apple.com/app/id1497713889)
 - 📫 How to reach me
   - Email: water15951@gmail.com
