@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Svelte.
 - 🔎 I'm looking for a new project to do
 - 💥 The project I worked.
-  - ~~AllRoundPlayer~~
   - [TimerS](https://apps.apple.com/app/id1497713889)
 - 📫 How to reach me
   - Email: water15951@gmail.com
