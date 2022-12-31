@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working at [wantedlab](https://www.wanted.co.kr/).
 - ✨ I am a web developer. I make a website using React.
-- 🌱 I’m currently learning Svelte.
-- 🔎 I'm looking for a new project to do
 - 💥 The project I worked.
   - [TimerS](https://apps.apple.com/app/id1497713889)
 - 📫 How to reach me
